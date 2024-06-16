@@ -31,6 +31,10 @@
 </div>
 
  <hr/>
+
+# Github States
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
 <h2 align="center">⚒️ Languages_Frameworks_Tools ⚒️</h2>
 <br/>
