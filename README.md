@@ -8,17 +8,21 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a Pet Project**
- 
- 🌱 I’m currently learning **C++, React, SDLC**
+<div align="left">
 
-💬 Ask me about **Problem Solving Thoughts** ,but Never ask for **Code**
-
- </div>
+💻 Working on **a Pet Project**
  
-<div align="center"> 
+🎓 Learning **C++, React, SDLC**
+
+🎯 Focused on **Competitive Programming**
+
+💬 Ask me about **Problem Solving Thoughts**
+ 
+👀 Never ask for **Code**
+ 
+<div/>
+ 
+<div align="left"> 
   <a href="mailto:rk.rifat1203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
