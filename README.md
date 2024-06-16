@@ -62,8 +62,10 @@
 </div>
 
 <br/>
+<br/>
  
 # 🏆 GitHub Trophies
+<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=khan1203&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
