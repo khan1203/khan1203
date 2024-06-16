@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
 
 💻 Working on **a Pet Project**
  
@@ -16,13 +16,15 @@
 
 🎯 Focused on **Competitive Programming**
 
-💬 Ask me about **Problem Solving Thoughts**
+💬 Ask me about **Problems and Solving Thoughts**
  
 👀 Never ask for **Code**
  
 <div/>
+    
+ <br/>
  
-<div align="left"> 
+<div align="center"> 
   <a href="mailto:rk.rifat1203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,14 +36,10 @@
   </a>
 </div>
 
- <hr/>
+ <br/>
 
-# 📊 Github States
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/khan1203?cardType=github&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khan1203&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
-<h2 align="center">⚒️ Languages_Frameworks_Tools ⚒️</h2>
+# ⚒️ Languages Frameworks Tools I use⚒️
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,tailwind,git,github" />
@@ -49,8 +47,24 @@
 </div>
 
 <br/>
-<hr/>
 
+<br/>
+
+# 📊 Github States
+<br/>
+<br/>
+
+<div align=left>
+  <img width=390 src="https://awesome-github-stats.azurewebsites.net/user-stats/khan1203?cardType=github&theme=react&preferLogin=true" alt="readme stats" />
+  <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khan1203&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khan1203&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+ 
 <div align="center">
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khan1203&theme=flat&no-frame=false&no-bg=false&margin-w=4)
