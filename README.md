@@ -43,11 +43,8 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khan1203/khan1203/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khan1203&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 <hr/>
