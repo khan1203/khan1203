@@ -37,7 +37,7 @@
 </div>
 
  <br/>
-
+<hr/>
 
 # ⚒️ Languages Frameworks Tools I use⚒️
 <br/>
@@ -57,51 +57,26 @@
 <div align=left>
   <img width=390 src="https://awesome-github-stats.azurewebsites.net/user-stats/khan1203?cardType=github&theme=react&preferLogin=true" alt="readme stats" />
   <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khan1203&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
+  
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khan1203&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
- 
-<div align="center">
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khan1203&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
+ 
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=khan1203&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+
+<hr/>
+
+
+<br/><br/>
 
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br/>
-
-- 👋 Hi, I’m @khan1203
--  I’m interested in 
-- 🌱 I’m currently learning SDLC
-- 💞️ I’m looking to collaborate on AI Projects
-- 📫 How to reach me 
-     Email: rk.rifat1203@gmail.com
-     
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
 
 <!---
 khan1203/khan1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
