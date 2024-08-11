@@ -12,7 +12,7 @@
 
 💻 Working on **a Pet Project**
  
-🎓 Learning **C++, React, SDLC**
+🎓 Learning **C++, React.js, Next.js, SDLC**
 
 🎯 Focused on **Competitive Programming**
 
