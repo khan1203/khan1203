@@ -42,8 +42,8 @@
 # ⚒️ Languages Frameworks Tools I use⚒️
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css," />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,appwrite,nodejs,vscode,tailwind,git,github,figma,c,cpp,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=appwrite,nodejs,vscode,git,github,figma,c,cpp,python" /><br>
 </div>
 
 <br/>
