@@ -18,7 +18,7 @@
 
 💬 Ask me about **Problems and Solving Thoughts**
  
-👀 Never ask for **Code**
+👀 Ask for **IDEA**, Never ask for **Code**
  
 <div/>
     
