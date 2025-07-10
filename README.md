@@ -40,7 +40,7 @@
  <br/>
 <hr/>
 
-# ⚒️ Languages Frameworks Tools I use⚒️
+# ⚒️ Tools I Love to work with ⚒️
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,mongodb,nodejs" />
