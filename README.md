@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A Passionate Programmer</h3>
-<h5>Software Engineer Enthusiast from Bangladesh🇧🇩</h5>
+<h5 align="center">Software Engineer Enthusiast from Bangladesh🇧🇩</h5>
 
 <br/>
 
