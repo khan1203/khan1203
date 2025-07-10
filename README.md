@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum;+I'm+Rifat+Khan+🚀;+Tech+🫶+Business+Enthusiast;" />
 </h1>
 
-<h3 align="center">A Passionate Programmer</h3>
+<h1 align="center">A Passionate Programmer</h1>
 <h5 align="center">Software Engineer Enthusiast from Bangladesh🇧🇩</h5>
 
 <br/>
@@ -44,7 +44,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,mongodb,nodejs" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,cpp,python,django,drf" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,cpp,python,django,djangorestframework" /><br>
 </div>
 
 <br/>
