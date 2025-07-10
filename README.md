@@ -12,7 +12,7 @@
 
 💻 Working on **a Pet Project**
  
-🎓 Learning **C++, React.js, Next.js, SDLC**
+🎓 Learning **Python + Django**
 
 🎯 Focused on **Competitive Programming**
 
@@ -42,8 +42,8 @@
 # ⚒️ Languages Frameworks Tools I use⚒️
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,mongodb" />
-    <img src="https://skillicons.dev/icons?i=appwrite,nodejs,vscode,git,github,figma,c,cpp,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,mongodb,nodejs" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,cpp,python,django,drf" /><br>
 </div>
 
 <br/>
