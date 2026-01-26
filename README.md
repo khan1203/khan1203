@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 💻 Working on **a Pet Project**
  
@@ -21,7 +21,7 @@
  
 👀 Ask for **IDEA**, Never ask for **Code**
  
-<div/>
+<div/> -->
     
  <br/>
  
