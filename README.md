@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum;+I'm+Rifat+Khan+🚀;+Tech+🫶+Business+Enthusiast;" />
 </h1>
 
-<h1 align="center">A Passionate Programmer</h1>
-<h5 align="center">Software Engineer Enthusiast from Bangladesh🇧🇩</h5>
+<h1 align="center"> Inquisitive Learner</h1>
+<h3 align="center">Aspiring Engineer</h3>
 
 <br/>
 
