@@ -31,7 +31,6 @@
 </div>
 
 <br/>
-<hr/>
 
 ## 🧠 About Me
 
@@ -67,6 +66,7 @@ Let’s connect!!
 
 <br/>
 
+<!--
 ## 🏆 Achievements & Certifications
 
 - **Dean’s Award** – BUBT  
@@ -86,6 +86,8 @@ Let’s connect!!
 - **Arabic** – Elementary  
 - **Hindi & Urdu** – Limited Working  
 
+-->
+
 <br/>
 
 ## 📫 Let’s Connect
@@ -94,7 +96,6 @@ I'm always open to discussions about **tech, business, startups, or collaborativ
 
 <br/>
 
-<hr/>
 
 <p align="center">
   <i>Driven by curiosity, built with code, and aimed at impact.</i>
