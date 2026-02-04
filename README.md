@@ -35,13 +35,16 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Science and Engineering undergraduate** at **Bangladesh University of Business & Technology (BUBT)** with a deep curiosity for both **technology** and **business**. I'm currently self-learning **Backend Development with Python** while honing my problem-solving skills through **Data Structures and Algorithms**.
+As a dedicated undergraduate student of Computer Science and Engineering, I am passionate about expanding my knowledge beyond the university curriculum. Currently, I am self-learning **Backend Development with Python**. Besides, I'm focusing on solving competitive problems with Data Structures and Algorithms (DSA) to enhance my technical expertise.
 
-I write technical articles on **Medium** as a *Knowledge Cartographer*, breaking down complex programming concepts into understandable guides. I'm also an active member of **BUBT IT Club** and **BASIS Students' Forum**, and previously contributed to tech and international relations clubs at **Notre Dame College**.
+My curiosity extends into the business and corporate realms, where I actively explore emerging technologies, startups, small-to-medium enterprises (SMEs), and giant tech companies. I am particularly interested in understanding the dynamics of corporate excellence and innovation.
 
-Beyond coding, I read extensively about **productivity, ethics, and leadership**, and enjoy engaging in tech-business events to connect with like-minded innovators.
+In my free time, I enjoy reading nonfiction books, particularly those on **productivity and ethical standards**, which broaden my perspective and fuel my ambition. I also love to participate in events related to *technology and business*, where I engage with like-minded individuals and industry leaders.
 
-> *"Growing forward with hope and a vision to lead the next revolution together. In Sha Allah."*
+> “Growing Forward with hope and a vision to lead the next revolution together. In Sha Allah.”
+
+With determination and collaboration, we can drive meaningful and positive impact on Earth. 
+Let’s connect!!
 
 <br/>
 
