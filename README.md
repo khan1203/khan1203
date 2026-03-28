@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=4A90E2&vColor=4A90E2&lines=Aspiring+Backend+Engineer;Agentic+AI+Explorer;Tech+and+Business+Enthusiast" />
 </h1>
 
-<h3 align="center">🔍 Inquisitive Learner | 💻 CSE @ BUBT | 🚀 Building with Python & DSA</h3>
+<h3 align="center">🔍 Inquisitive Learner | 💻 CSE @ BUBT | 🚀 Building Backend</h3>
 
 <p align="center">
   <i>Passionate about technology, business innovation, and lifelong learning. Currently exploring backend development, competitive programming, and the intersection of tech and corporate excellence.</i>
